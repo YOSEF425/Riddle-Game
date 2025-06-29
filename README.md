@@ -1,5 +1,6 @@
-** Riddle-Game **
+# 🧠 Riddle-Game
 
+A lightweight JavaScript web app that challenges users with a series of clever riddles. Type your answers, receive instant feedback, and test your general knowledge in a fun and engaging way.
 
-This is a lightweight JavaScript web app that presents users with a series of riddles. Users type their answers, get instant feedback. 
-This is a program where a user can challenge his general knowledge. It's fun, quick and extremely addicting. don't forget to ENJOYYY.
+Whether you're solving on your lunch break or trying to stump your friends, **Riddle-Game** is quick, addicting, and guaranteed to tickle your brain.  
+Don’t forget to ENJOYY! 🎉
