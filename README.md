@@ -1,4 +1,4 @@
-*** Riddle-Game ***
+** Riddle-Game **
 
 
 This is a lightweight JavaScript web app that presents users with a series of riddles. Users type their answers, get instant feedback. 
